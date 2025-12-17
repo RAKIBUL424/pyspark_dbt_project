@@ -7,7 +7,7 @@ This project is demonstrate a complete ETL pipeline using the PySpark and dbt. T
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture]("Untitled Diagram.png")
+![image alt](https://github.com/RAKIBUL424/pyspark_dbt_project/blob/6c9ec5473a00208f54df6e55ef81db66d0890bcd/Untitled%20Diagram.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
