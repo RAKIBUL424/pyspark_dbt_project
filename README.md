@@ -39,7 +39,6 @@ Develop a modern ETL pipeline of uber data, enabling analytical reporting and in
 - **Data Sources**: Import data from six source systems provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Using PySpark we doal the dataset dynamically.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
@@ -51,6 +50,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Abu Hashem Md Rakibul Islam**, a data enthugiest. I have recently graduated from HSTU and practicing data realated things regularly.
+Hi there! I'm **Abu Hashem Md Rakibul Islam**, a data enthusiast. I have recently graduated from HSTU and practicing data realated things regularly.
 
 Let's stay in touch! Feel free to connect with me on (https://www.linkedin.com/in/ahmd-rakibul-islam-116371238/)
